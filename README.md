@@ -1,4 +1,4 @@
 # The-Lounge-Shop
-Online clothing storefront app.
+Online clothing storefront app. The only code I wrote for this was the JavaScript.
 Customizable loungewear! Reasonable prices!
-This project is also viewable on the web: https://studio.code.org/projects/applab/JLGi4yy3xjrc9wyT7UOFa3hcdNyu1III33WMyNedNr8
+View the project here: https://studio.code.org/projects/applab/JLGi4yy3xjrc9wyT7UOFa3hcdNyu1III33WMyNedNr8
